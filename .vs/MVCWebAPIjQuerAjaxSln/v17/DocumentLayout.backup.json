@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SHAJIB\\Downloads\\MVC WebAPIjQuerAjaxSln\\MVC WebAPIjQuerAjaxSln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E26E8F9B-C4A1-48B7-91DA-5EF99E7788FA}|MVCWebAPIjQuerAjax\\MVCWebAPIjQuerAjax.csproj|c:\\users\\shajib\\downloads\\mvc webapijquerajaxsln\\mvc webapijquerajaxsln\\mvcwebapijquerajax\\scripts\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E26E8F9B-C4A1-48B7-91DA-5EF99E7788FA}|MVCWebAPIjQuerAjax\\MVCWebAPIjQuerAjax.csproj|solutionrelative:mvcwebapijquerajax\\scripts\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26E8F9B-C4A1-48B7-91DA-5EF99E7788FA}|MVCWebAPIjQuerAjax\\MVCWebAPIjQuerAjax.csproj|C:\\Users\\SHAJIB\\Downloads\\MVC WebAPIjQuerAjaxSln\\MVC WebAPIjQuerAjaxSln\\mvcwebapijquerajax\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E26E8F9B-C4A1-48B7-91DA-5EF99E7788FA}|MVCWebAPIjQuerAjax\\MVCWebAPIjQuerAjax.csproj|solutionrelative:mvcwebapijquerajax\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26E8F9B-C4A1-48B7-91DA-5EF99E7788FA}|MVCWebAPIjQuerAjax\\MVCWebAPIjQuerAjax.csproj|C:\\Users\\SHAJIB\\Downloads\\MVC WebAPIjQuerAjaxSln\\MVC WebAPIjQuerAjaxSln\\mvcwebapijquerajax\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26E8F9B-C4A1-48B7-91DA-5EF99E7788FA}|MVCWebAPIjQuerAjax\\MVCWebAPIjQuerAjax.csproj|solutionrelative:mvcwebapijquerajax\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PersonDB/True/SqlTable/dbo.People.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26E8F9B-C4A1-48B7-91DA-5EF99E7788FA}|MVCWebAPIjQuerAjax\\MVCWebAPIjQuerAjax.csproj|C:\\Users\\SHAJIB\\Downloads\\MVC WebAPIjQuerAjaxSln\\MVC WebAPIjQuerAjaxSln\\mvcwebapijquerajax\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E26E8F9B-C4A1-48B7-91DA-5EF99E7788FA}|MVCWebAPIjQuerAjax\\MVCWebAPIjQuerAjax.csproj|solutionrelative:mvcwebapijquerajax\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26E8F9B-C4A1-48B7-91DA-5EF99E7788FA}|MVCWebAPIjQuerAjax\\MVCWebAPIjQuerAjax.csproj|C:\\Users\\SHAJIB\\Downloads\\MVC WebAPIjQuerAjaxSln\\MVC WebAPIjQuerAjaxSln\\mvcwebapijquerajax\\migrations\\202412220343184_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26E8F9B-C4A1-48B7-91DA-5EF99E7788FA}|MVCWebAPIjQuerAjax\\MVCWebAPIjQuerAjax.csproj|solutionrelative:mvcwebapijquerajax\\migrations\\202412220343184_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26E8F9B-C4A1-48B7-91DA-5EF99E7788FA}|MVCWebAPIjQuerAjax\\MVCWebAPIjQuerAjax.csproj|C:\\Users\\SHAJIB\\Downloads\\MVC WebAPIjQuerAjaxSln\\MVC WebAPIjQuerAjaxSln\\mvcwebapijquerajax\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26E8F9B-C4A1-48B7-91DA-5EF99E7788FA}|MVCWebAPIjQuerAjax\\MVCWebAPIjQuerAjax.csproj|solutionrelative:mvcwebapijquerajax\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26E8F9B-C4A1-48B7-91DA-5EF99E7788FA}|MVCWebAPIjQuerAjax\\MVCWebAPIjQuerAjax.csproj|C:\\Users\\SHAJIB\\Downloads\\MVC WebAPIjQuerAjaxSln\\MVC WebAPIjQuerAjaxSln\\mvcwebapijquerajax\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26E8F9B-C4A1-48B7-91DA-5EF99E7788FA}|MVCWebAPIjQuerAjax\\MVCWebAPIjQuerAjax.csproj|solutionrelative:mvcwebapijquerajax\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26E8F9B-C4A1-48B7-91DA-5EF99E7788FA}|MVCWebAPIjQuerAjax\\MVCWebAPIjQuerAjax.csproj|C:\\Users\\SHAJIB\\Downloads\\MVC WebAPIjQuerAjaxSln\\MVC WebAPIjQuerAjaxSln\\mvcwebapijquerajax\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26E8F9B-C4A1-48B7-91DA-5EF99E7788FA}|MVCWebAPIjQuerAjax\\MVCWebAPIjQuerAjax.csproj|solutionrelative:mvcwebapijquerajax\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.People.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PersonDB/True/SqlTable/dbo.People.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PersonDB/True/SqlTable/dbo.People.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-22T05:08:03.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "custom.js",
+              "DocumentMoniker": "C:\\Users\\SHAJIB\\Downloads\\MVC WebAPIjQuerAjaxSln\\MVC WebAPIjQuerAjaxSln\\MVCWebAPIjQuerAjax\\Scripts\\custom.js",
+              "RelativeDocumentMoniker": "MVCWebAPIjQuerAjax\\Scripts\\custom.js",
+              "ToolTip": "C:\\Users\\SHAJIB\\Downloads\\MVC WebAPIjQuerAjaxSln\\MVC WebAPIjQuerAjaxSln\\MVCWebAPIjQuerAjax\\Scripts\\custom.js",
+              "RelativeToolTip": "MVCWebAPIjQuerAjax\\Scripts\\custom.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-22T04:49:58.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHAJIB\\Downloads\\MVC WebAPIjQuerAjaxSln\\MVC WebAPIjQuerAjaxSln\\MVCWebAPIjQuerAjax\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCWebAPIjQuerAjax\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SHAJIB\\Downloads\\MVC WebAPIjQuerAjaxSln\\MVC WebAPIjQuerAjaxSln\\MVCWebAPIjQuerAjax\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCWebAPIjQuerAjax\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T04:38:46.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\SHAJIB\\Downloads\\MVC WebAPIjQuerAjaxSln\\MVC WebAPIjQuerAjaxSln\\MVCWebAPIjQuerAjax\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "MVCWebAPIjQuerAjax\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\SHAJIB\\Downloads\\MVC WebAPIjQuerAjaxSln\\MVC WebAPIjQuerAjaxSln\\MVCWebAPIjQuerAjax\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "MVCWebAPIjQuerAjax\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwC4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:44:23.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "202412220343184_init.cs",
+              "DocumentMoniker": "C:\\Users\\SHAJIB\\Downloads\\MVC WebAPIjQuerAjaxSln\\MVC WebAPIjQuerAjaxSln\\MVCWebAPIjQuerAjax\\Migrations\\202412220343184_init.cs",
+              "RelativeDocumentMoniker": "MVCWebAPIjQuerAjax\\Migrations\\202412220343184_init.cs",
+              "ToolTip": "C:\\Users\\SHAJIB\\Downloads\\MVC WebAPIjQuerAjaxSln\\MVC WebAPIjQuerAjaxSln\\MVCWebAPIjQuerAjax\\Migrations\\202412220343184_init.cs",
+              "RelativeToolTip": "MVCWebAPIjQuerAjax\\Migrations\\202412220343184_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:43:33.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\SHAJIB\\Downloads\\MVC WebAPIjQuerAjaxSln\\MVC WebAPIjQuerAjaxSln\\MVCWebAPIjQuerAjax\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "MVCWebAPIjQuerAjax\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\SHAJIB\\Downloads\\MVC WebAPIjQuerAjaxSln\\MVC WebAPIjQuerAjaxSln\\MVCWebAPIjQuerAjax\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "MVCWebAPIjQuerAjax\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:42:50.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\SHAJIB\\Downloads\\MVC WebAPIjQuerAjaxSln\\MVC WebAPIjQuerAjaxSln\\MVCWebAPIjQuerAjax\\Web.config",
+              "RelativeDocumentMoniker": "MVCWebAPIjQuerAjax\\Web.config",
+              "ToolTip": "C:\\Users\\SHAJIB\\Downloads\\MVC WebAPIjQuerAjaxSln\\MVC WebAPIjQuerAjaxSln\\MVCWebAPIjQuerAjax\\Web.config",
+              "RelativeToolTip": "MVCWebAPIjQuerAjax\\Web.config",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAEwAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-22T03:37:03.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SHAJIB\\Downloads\\MVC WebAPIjQuerAjaxSln\\MVC WebAPIjQuerAjaxSln\\MVCWebAPIjQuerAjax\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MVCWebAPIjQuerAjax\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\SHAJIB\\Downloads\\MVC WebAPIjQuerAjaxSln\\MVC WebAPIjQuerAjaxSln\\MVCWebAPIjQuerAjax\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "MVCWebAPIjQuerAjax\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:34:38.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\SHAJIB\\Downloads\\MVC WebAPIjQuerAjaxSln\\MVC WebAPIjQuerAjaxSln\\MVCWebAPIjQuerAjax\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "MVCWebAPIjQuerAjax\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\SHAJIB\\Downloads\\MVC WebAPIjQuerAjaxSln\\MVC WebAPIjQuerAjaxSln\\MVCWebAPIjQuerAjax\\Models\\Person.cs",
+              "RelativeToolTip": "MVCWebAPIjQuerAjax\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:31:56.316Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

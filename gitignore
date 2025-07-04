@@ -1,0 +1,39 @@
+
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Ignore build output
+bin/
+obj/
+Debug/
+Release/
+*.log
+*.tmp
+
+# Ignore NuGet packages
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+
+# Ignore compiled DLLs
+*.dll
+*.exe
+*.pdb
+
+# Ignore database & local config
+*.mdf
+*.ldf
+*.db
+*.env
+*.local.config
+
+# Ignore Rider/JetBrains or other IDE settings
+.idea/
+*.iml
+
+# Ignore frontend dependencies if any
+node_modules/
+dist/
