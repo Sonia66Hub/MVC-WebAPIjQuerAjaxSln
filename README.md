@@ -61,7 +61,8 @@ MVCWebAPIjQuerAjax/
 ---
 
 ## 📸 Screenshots
-![UI Screenshot](C:\Users\SHAJIB\Pictures\Screenshot 2025-07-04 201314.png)
+![UI Screenshot](![Screenshot 2025-07-04 201314](https://github.com/user-attachments/assets/1918f2ad-e821-402d-a3fa-6fb6901d5398)
+)
 
 
 ---
@@ -80,5 +81,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## ✉️ Contact
 
-For any queries, reach out   
+For any queries, reach out.   
 🔗 www.linkedin.com/in/sonia-yesmin
