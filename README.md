@@ -61,7 +61,8 @@ MVCWebAPIjQuerAjax/
 ---
 
 ## 📸 Screenshots
-![UI Screenshot](![Screenshot 2025-07-04 201314](https://github.com/user-attachments/assets/1918f2ad-e821-402d-a3fa-6fb6901d5398)
+![UI Screenshot](![Screenshot 2025-07-05 154839](https://github.com/user-attachments/assets/69b2129a-70c6-4733-85f4-14103a487734)
+)
 )
 
 
